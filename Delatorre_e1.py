@@ -1,0 +1,5 @@
+print("I am Alexis Dela Torre")
+print("My spirit animal is Panda.")
+print("Because like pandas, all I do is to sleep and eat.")
+print("When not in school, I love to sleep.")
+print("I dream of being a medical doctor in the future.")
